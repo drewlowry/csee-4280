@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/student/Workspace/Exercise1/CH2/SystemVerilog/hdl/logic_ex.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module logic_ex
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/student/Workspace/Exercise1/CH2/SystemVerilog/tb/tb.sv" into library xil_defaultlib
+WARNING: [VRFC 10-2502] extra semicolon in $unit (global) scope [/home/student/Workspace/Exercise1/CH2/SystemVerilog/tb/tb.sv:7]
+INFO: [VRFC 10-311] analyzing module tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/student/Workspace/Exercise1/CH2/SystemVerilog/build/logic_ex.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
